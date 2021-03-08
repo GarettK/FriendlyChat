@@ -3,4 +3,6 @@
 From the tutorial: [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
 
 Stopped here:
-https://firebase.google.com/codelabs/firebase-web#7
+https://firebase.google.com/codelabs/firebase-cloud-functions/#4
+
+Next we will add Cloud Functions for things like sending notifications
